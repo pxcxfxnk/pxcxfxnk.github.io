@@ -23,3 +23,12 @@
 .text-muted--link:hover{
 	color: #000000 !important;
 }
+
+.svg{
+	fill: #6c757d;
+	transition: .5s;
+}
+
+.svg:hover{
+	fill: #000000;
+}
